@@ -1,0 +1,24 @@
+.cr img{
+    width: 150px;
+    height: 150px;
+    margin-left: 75px;
+    margin-bottom: 0px;
+}
+
+.card :hover{
+    box-shadow: 20px 20px 180px white;
+}
+.card{
+    width: 150px;
+    height: 30px;
+    margin: 40px;
+    
+}
+.cr{
+    
+    height: 210px;
+}
+.card-title{
+    margin-top: 0px;
+    padding-top: 0px;
+}

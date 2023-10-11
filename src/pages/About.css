@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+
+
+}
+
+.leftt{
+   margin-left: 0px;
+    text-align: left;
+    padding: 0px;
+    width: 50%;
+    color: rgb(15, 135, 4);
+    margin-top: 0px;
+    margin-right: 190px;
+}
+
+.lefty{
+    width: 100%;
+    margin-bottom: 1em;
+    margin-top: 40px;
+}
+
+.leftt ul{
+ 
+    text-align: left;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+.leftt li{
+    text-decoration: none;
+    text-align: left;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+.rightt img{
+    width: 500px;
+    height: 400px;
+    
+}
+.rightt{
+    width: 40%;
+    margin-right: 10px;
+}
+
+
+
